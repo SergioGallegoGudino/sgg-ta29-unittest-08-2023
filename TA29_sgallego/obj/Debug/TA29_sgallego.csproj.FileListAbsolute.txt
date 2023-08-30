@@ -1,0 +1,13 @@
+C:\Users\sergi\source\repos\TA29_sgallego\bin\Debug\TA29_sgallego.exe.config
+C:\Users\sergi\source\repos\TA29_sgallego\bin\Debug\TA29_sgallego.exe
+C:\Users\sergi\source\repos\TA29_sgallego\bin\Debug\TA29_sgallego.pdb
+C:\Users\sergi\source\repos\TA29_sgallego\bin\Debug\nunit.framework.dll
+C:\Users\sergi\source\repos\TA29_sgallego\bin\Debug\nunit.framework.xml
+C:\Users\sergi\source\repos\TA29_sgallego\obj\Debug\TA29_sgallego.csproj.AssemblyReference.cache
+C:\Users\sergi\source\repos\TA29_sgallego\obj\Debug\TA29_sgallego.Properties.Resources.resources
+C:\Users\sergi\source\repos\TA29_sgallego\obj\Debug\TA29_sgallego.csproj.GenerateResource.cache
+C:\Users\sergi\source\repos\TA29_sgallego\obj\Debug\TA29_sgallego.csproj.CoreCompileInputs.cache
+C:\Users\sergi\source\repos\TA29_sgallego\obj\Debug\TA29_sgallego.csproj.CopyComplete
+C:\Users\sergi\source\repos\TA29_sgallego\obj\Debug\TA29_sgallego.exe
+C:\Users\sergi\source\repos\TA29_sgallego\obj\Debug\TA29_sgallego.pdb
+C:\Users\sergi\source\repos\TA29_sgallego\obj\Debug\TA29_sgallego.Form1.resources
